@@ -9,7 +9,16 @@ I am a Computer Engineering student, focusing on embedded systems development, a
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAVIMEDX&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DAVIMEDX&show_icons=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
