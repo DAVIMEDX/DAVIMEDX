@@ -9,16 +9,10 @@ I am a Computer Engineering student, focusing on embedded systems development, a
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DAVIMEDX&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF" width="250">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE3YTdwcDZ5NXkwaG5xdTQ2bm91cjh0OXBtbTNybzAzeW5zNTlzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="340">
+  <img src="https://github-readme-stats.vercel.app/api?username=DAVIMEDX&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
+</div>
 
 ---
 
